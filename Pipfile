@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.19.5"
+pandas = "==1.1.5"
+jupyter = "==1.0.0"
+google-cloud-bigquery = "==1.21.0"
+google-cloud-bigquery-storage = "==1.1.0"
+google-auth = "==1.35.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
