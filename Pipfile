@@ -11,6 +11,7 @@ google-cloud-bigquery = "==1.21.0"
 google-cloud-bigquery-storage = "==1.1.0"
 google-auth = "==1.35.0"
 pydata-google-auth = "==1.2.0"
+pandarallel = "==1.5.4"
 
 [dev-packages]
 
